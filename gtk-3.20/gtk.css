@@ -376,8 +376,8 @@ button.osd {
     button:backdrop:disabled:active, notebook > header > tabs > arrow:backdrop:disabled:checked,
     button:backdrop:disabled:checked {
       color: #222630;
-      border-color: rgba(214, 122, 214, 0.35);
-      background-image: linear-gradient(to bottom, rgba(216, 130, 216, 0.35), rgba(207, 99, 207, 0.35)); }
+      border-color: rgba(0, 115, 138, 0.35);
+      background-image: linear-gradient(to bottom, rgba(76, 177, 197, 0.35), rgba(67, 158, 176, 0.35)); }
       notebook > header > tabs > arrow:backdrop:disabled:active > .label, popover.background.touch-selection button:backdrop:disabled:active > .label, popover.background.magnifier button:backdrop:disabled:active > .label, button:backdrop:disabled:active > .label, notebook > header > tabs > arrow:backdrop:disabled:checked > .label, popover.background.touch-selection button:backdrop:disabled:checked > .label, popover.background.magnifier button:backdrop:disabled:checked > .label, button:backdrop:disabled:checked > .label {
         color: inherit; }
   notebook > header > tabs > arrow:backdrop, button.sidebar-button:backdrop, popover.background.touch-selection button.flat:backdrop, popover.background.magnifier button.flat:backdrop,
@@ -422,8 +422,8 @@ button.osd {
     button:disabled:active, notebook > header > tabs > arrow:disabled:checked, popover.background.touch-selection button:disabled:checked, popover.background.magnifier button:disabled:checked,
     button:disabled:checked {
       color: #222630;
-      border-color: rgba(214, 122, 214, 0.35);
-      background-image: linear-gradient(to bottom, rgba(216, 130, 216, 0.35), rgba(207, 99, 207, 0.35)); }
+      border-color: rgba(0, 115, 138, 0.35);
+      background-image: linear-gradient(to bottom, rgba(76, 177, 197, 0.35), rgba(67, 158, 176, 0.35)); }
       notebook > header > tabs > arrow:disabled:active > .label, popover.background.touch-selection button:disabled:active > .label, popover.background.magnifier button:disabled:active > .label, button:disabled:active > .label, notebook > header > tabs > arrow:disabled:checked > .label, popover.background.touch-selection button:disabled:checked > .label, popover.background.magnifier button:disabled:checked > .label, button:disabled:checked > .label {
         color: inherit; }
   notebook > header > tabs > arrow separator, .csd popover.background.touch-selection button separator, .csd popover.background.magnifier button separator, popover.background.touch-selection button separator, popover.background.magnifier button separator, button separator, notebook > header > tabs > arrow.osd separator, button.osd separator {
@@ -713,8 +713,8 @@ button {
       button.suggested-action.osd
       button.flat:backdrop:disabled:checked {
         color: rgba(232, 232, 232, 0.35);
-        border-color: rgba(214, 122, 214, 0.35);
-        background-image: linear-gradient(to bottom, rgba(216, 130, 216, 0.35), rgba(207, 99, 207, 0.35)); }
+        border-color: rgba(0, 115, 138, 0.35);
+        background-image: linear-gradient(to bottom, rgba(76, 177, 197, 0.35), rgba(67, 158, 176, 0.35)); }
         popover.background.touch-selection button.suggested-action:backdrop:disabled:active > .label, popover.background.magnifier button.suggested-action:backdrop:disabled:active > .label, popover.background.touch-selection button.suggested-action:backdrop:disabled:checked > .label, popover.background.magnifier button.suggested-action:backdrop:disabled:checked > .label, popover.background.touch-selection button.suggested-action.flat:backdrop:disabled:active > .label, popover.background.magnifier button.suggested-action.flat:backdrop:disabled:active > .label, popover.background.touch-selection button.suggested-action.flat:backdrop:disabled:checked > .label, popover.background.magnifier button.suggested-action.flat:backdrop:disabled:checked > .label,
         popover.background.touch-selection button.suggested-action.osd button:backdrop:disabled:active > .label,
         popover.background.magnifier button.suggested-action.osd popover.background.touch-selection button:backdrop:disabled:active > .label,
@@ -865,8 +865,8 @@ button {
     button.suggested-action.osd
     button:disabled:checked {
       color: rgba(232, 232, 232, 0.35);
-      border-color: rgba(214, 122, 214, 0.35);
-      background-image: linear-gradient(to bottom, rgba(216, 130, 216, 0.35), rgba(207, 99, 207, 0.35)); }
+      border-color: rgba(0, 115, 138, 0.35);
+      background-image: linear-gradient(to bottom, rgba(76, 177, 197, 0.35), rgba(67, 158, 176, 0.35)); }
       popover.background.touch-selection button.suggested-action:disabled:active > .label, popover.background.magnifier button.suggested-action:disabled:active > .label, popover.background.touch-selection button.suggested-action:disabled:checked > .label, popover.background.magnifier button.suggested-action:disabled:checked > .label,
       popover.background.touch-selection button.suggested-action.osd button:disabled:active > .label,
       popover.background.magnifier button.suggested-action.osd popover.background.touch-selection button:disabled:active > .label,
@@ -1300,7 +1300,7 @@ button {
     button.destructive-action.osd
     button:disabled:checked {
       color: rgba(232, 232, 232, 0.35);
-      border-color: rgba(214, 122, 214, 0.35);
+      border-color: rgba(0, 115, 138, 0.35);
       background-image: linear-gradient(to bottom, rgba(215, 53, 69, 0.35), rgba(197, 39, 55, 0.35)); }
       popover.background.touch-selection button.destructive-action:disabled:active > .label, popover.background.magnifier button.destructive-action:disabled:active > .label, popover.background.touch-selection button.destructive-action:disabled:checked > .label, popover.background.magnifier button.destructive-action:disabled:checked > .label,
       popover.background.touch-selection button.destructive-action.osd button:disabled:active > .label,
@@ -2134,8 +2134,8 @@ headerbar {
       headerbar button:disabled:active,
       headerbar button:disabled:checked {
         color: #222630;
-        border-color: rgba(214, 122, 214, 0.35);
-        background-image: linear-gradient(to bottom, rgba(216, 130, 216, 0.35), rgba(207, 99, 207, 0.35)); }
+        border-color: rgba(0, 115, 138, 0.35);
+        background-image: linear-gradient(to bottom, rgba(76, 177, 197, 0.35), rgba(67, 158, 176, 0.35)); }
         
         headerbar button:disabled:active > .label,
         headerbar button:disabled:checked > .label {
@@ -2204,8 +2204,8 @@ headerbar.selection-mode.suggested-action {
     headerbar button.suggested-action:disabled:checked,
     headerbar.selection-mode.suggested-action:disabled:checked {
       color: #222630;
-      border-color: rgba(214, 122, 214, 0.35);
-      background-image: linear-gradient(to bottom, rgba(216, 130, 216, 0.35), rgba(207, 99, 207, 0.35)); }
+      border-color: rgba(0, 115, 138, 0.35);
+      background-image: linear-gradient(to bottom, rgba(76, 177, 197, 0.35), rgba(67, 158, 176, 0.35)); }
       headerbar button.suggested-action:disabled:active > .label, headerbar.selection-mode.suggested-action:disabled:active > .label, headerbar button.suggested-action:disabled:checked > .label, headerbar.selection-mode.suggested-action:disabled:checked > .label {
         color: inherit; }
   
